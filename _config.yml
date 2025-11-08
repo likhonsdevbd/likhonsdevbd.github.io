@@ -1,0 +1,18 @@
+# Configuration file for Jekyll (if needed)
+# Since we have a static HTML site, we don't need Jekyll
+# But adding this prevents Jekyll from trying to process our files
+
+plugins_dir: _plugins
+layouts_dir: _layouts
+includes_dir: _includes
+
+# Don't process files with these extensions
+exclude:
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - .git/
+  - .github/
+
+# Safe mode - don't process plugins
+safe: true

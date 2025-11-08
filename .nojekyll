@@ -1,0 +1,3 @@
+# This file disables Jekyll processing
+# This allows GitHub Pages to serve our static HTML site without Jekyll
+# Since we have a complete static HTML/CSS/JS website, we don't need Jekyll
