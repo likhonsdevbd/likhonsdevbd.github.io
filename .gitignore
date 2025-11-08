@@ -14,7 +14,7 @@
 **/.Python
 **/build/
 **/develop-eggs/
-**/dist/
+# **/dist/ - REMOVED to allow GitHub Pages deployment
 **/downloads/
 **/eggs/
 **/.eggs/
